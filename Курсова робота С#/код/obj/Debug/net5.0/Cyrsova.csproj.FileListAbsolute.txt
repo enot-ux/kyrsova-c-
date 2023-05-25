@@ -1,0 +1,16 @@
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.csproj.AssemblyReference.cache
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.AssemblyInfoInputs.cache
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.AssemblyInfo.cs
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.csproj.CoreCompileInputs.cache
+C:\Users\llya\Desktop\Cyrsova\bin\Debug\net5.0\Cyrsova.exe
+C:\Users\llya\Desktop\Cyrsova\bin\Debug\net5.0\Cyrsova.deps.json
+C:\Users\llya\Desktop\Cyrsova\bin\Debug\net5.0\Cyrsova.runtimeconfig.json
+C:\Users\llya\Desktop\Cyrsova\bin\Debug\net5.0\Cyrsova.runtimeconfig.dev.json
+C:\Users\llya\Desktop\Cyrsova\bin\Debug\net5.0\Cyrsova.dll
+C:\Users\llya\Desktop\Cyrsova\bin\Debug\net5.0\ref\Cyrsova.dll
+C:\Users\llya\Desktop\Cyrsova\bin\Debug\net5.0\Cyrsova.pdb
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.dll
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\ref\Cyrsova.dll
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.pdb
+C:\Users\llya\Desktop\Cyrsova\obj\Debug\net5.0\Cyrsova.genruntimeconfig.cache
